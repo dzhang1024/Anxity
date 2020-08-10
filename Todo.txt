@@ -5,9 +5,9 @@ Legend:
 @ = Work in Progress
 
 Gameplay/UI: 
-- projectiles 
+- projectiles/weaponry
 - enemies
-- health bar @ 
+- health bar @ # 
 - abilities
 - scene transition 
 
