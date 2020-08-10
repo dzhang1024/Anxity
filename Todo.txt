@@ -1,11 +1,13 @@
 To do list for the development of Anxity 
 
 Legend: 
-# = done 
+# = Done 
 @ = Work in Progress
 
 Gameplay/UI: 
-- projectiles/weaponry
+- projectiles/weaponry @
+    *Make sure to fire in the direction the player is facing
+    *Use if statements to determine player direction 
 - enemies
 - health bar @ # 
 - abilities
