@@ -5,9 +5,8 @@ Legend:
 @ = Work in Progress
 
 Gameplay/UI: 
-- projectiles/weaponry @
-    *Make sure to fire in the direction the player is facing
-    *Use if statements to determine player direction 
+- projectiles/weaponry @ #
+* change projectile @  
 - enemies
 - health bar @ # 
 - abilities
