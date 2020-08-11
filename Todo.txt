@@ -6,7 +6,8 @@ Legend:
 
 Gameplay/UI: 
 - projectiles/weaponry @ #
-* change projectile @  
+* change projectile @ #
+* Potentially make the firepoint in line with the player instead of arbitrarily chosen value  
 - enemies
 - health bar @ # 
 - abilities
