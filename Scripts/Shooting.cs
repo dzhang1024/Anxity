@@ -22,6 +22,7 @@ public class Shooting : MonoBehaviour
         {
             //create bullet at firepoint
             GameObject newBullet = Instantiate(bullet, firePoint.position, firePoint.rotation);
+            //creates rigidbody so that there it can collide with other objects
             Rigidbody2D rb = newBullet.GetComponent<Rigidbody2D>();
             //apply force to bullet
             rb.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
