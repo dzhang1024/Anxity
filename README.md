@@ -1,4 +1,5 @@
 ### Anxity
 
-A simple dungeon crawler with stages that slowly explore the main character's backstory, how he ended up in the dungeon of Anxity, 
-and who the mysterious warden of these dungeons. 
+A simple dungeon crawler that incorporates basic 2D game functions such as moving, animations, projectiles, and collision. Part of a bigger project to develop a 2D dungeon crawler. 
+
+This game serves as my "spring board" into more advance game programming topics such as different menus, scene transitions, dialogue, and game design concepts in general. 
