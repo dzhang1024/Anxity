@@ -22,5 +22,5 @@ Features:
 - item/object animations 
 
 Notes: 
-- WIll probably have to simplify this game in terms mechanics and features 
+- Will probably have to simplify this game in terms mechanics and features 
 because of a time crunch and also learning process  
