@@ -20,3 +20,7 @@ Features:
 - add items 
 - last boss
 - item/object animations 
+
+Notes: 
+- WIll probably have to simplify this game in terms mechanics and features 
+because of a time crunch and also learning process  
