@@ -20,6 +20,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         //arbitrary take damage command when space is pressed
+        //whenever the space bar is hit the player takes damageS
         if (Input.GetKeyDown(KeyCode.Space))
         {
             TakeDamage(20);
